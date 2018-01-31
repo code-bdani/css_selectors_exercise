@@ -22,7 +22,7 @@ Paste the code below into your HTML document.
 13. Elements with a class of promo should have bold text that is also colored gold.
 14. Without adding any other attributes to the input fields in the footer, write a CSS selector that makes any text input field have a height of 25px.
 
-`<header>
+```<header>
   <ul>
     <li>Home</li>
     <li>Profile</li>
@@ -111,4 +111,4 @@ Paste the code below into your HTML document.
       <input type="tel" name="telephone" placeholder="Enter your telephone number">
   </span>
 
-</footer>`
+</footer>```
